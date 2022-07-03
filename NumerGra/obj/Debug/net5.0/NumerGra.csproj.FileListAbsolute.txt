@@ -1,0 +1,16 @@
+C:\Users\orsee\source\repos\NumerGra\bin\Debug\net5.0\NumerGra.exe
+C:\Users\orsee\source\repos\NumerGra\bin\Debug\net5.0\NumerGra.deps.json
+C:\Users\orsee\source\repos\NumerGra\bin\Debug\net5.0\NumerGra.runtimeconfig.json
+C:\Users\orsee\source\repos\NumerGra\bin\Debug\net5.0\NumerGra.runtimeconfig.dev.json
+C:\Users\orsee\source\repos\NumerGra\bin\Debug\net5.0\NumerGra.dll
+C:\Users\orsee\source\repos\NumerGra\bin\Debug\net5.0\ref\NumerGra.dll
+C:\Users\orsee\source\repos\NumerGra\bin\Debug\net5.0\NumerGra.pdb
+C:\Users\orsee\source\repos\NumerGra\obj\Debug\net5.0\NumerGra.csproj.AssemblyReference.cache
+C:\Users\orsee\source\repos\NumerGra\obj\Debug\net5.0\NumerGra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orsee\source\repos\NumerGra\obj\Debug\net5.0\NumerGra.AssemblyInfoInputs.cache
+C:\Users\orsee\source\repos\NumerGra\obj\Debug\net5.0\NumerGra.AssemblyInfo.cs
+C:\Users\orsee\source\repos\NumerGra\obj\Debug\net5.0\NumerGra.csproj.CoreCompileInputs.cache
+C:\Users\orsee\source\repos\NumerGra\obj\Debug\net5.0\NumerGra.dll
+C:\Users\orsee\source\repos\NumerGra\obj\Debug\net5.0\ref\NumerGra.dll
+C:\Users\orsee\source\repos\NumerGra\obj\Debug\net5.0\NumerGra.pdb
+C:\Users\orsee\source\repos\NumerGra\obj\Debug\net5.0\NumerGra.genruntimeconfig.cache

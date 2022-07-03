@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumerGra", "NumerGra.csproj", "{8ED04EC0-11A4-4D91-B224-32CF0E4BB0ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ED04EC0-11A4-4D91-B224-32CF0E4BB0ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ED04EC0-11A4-4D91-B224-32CF0E4BB0ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ED04EC0-11A4-4D91-B224-32CF0E4BB0ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ED04EC0-11A4-4D91-B224-32CF0E4BB0ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1136274-9681-46BE-8597-7F83C41BB414}
+	EndGlobalSection
+EndGlobal
